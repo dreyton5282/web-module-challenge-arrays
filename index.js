@@ -35,6 +35,38 @@ const originalFlavors = [
     "Vanilla Burnt Almond"
 ]
 
+// "Banana Nut Fudge",
+//     "Black Walnut",
+//     "Burgundy Cherry",
+//     "Butterscotch Ribbon",
+//     "Cherry Macaron",
+//     "Chocolate",
+//     "Chocolate Almond",
+//     "Chocolate Chip",
+//     "Chocolate Fudge",
+//     "Chocolate Mint",
+//     "Chocolate Ribbon",
+//     "Coffee",
+//     "Coffee Candy",
+//     "Date Nut",
+//     "Eggnog",
+//     "French Vanilla",
+//     "Green Mint Stick",
+//     "Lemon Crisp",
+//     "Lemon Custard",
+//     "Lemon Sherbet",
+//     "Maple Nut",
+//     "Orange Sherbet",
+//     "Peach",
+//     "Peppermint Fudge Ribbon",
+//     "Peppermint Stick",
+//     "Pineapple Sherbet",
+//     "Raspberry Sherbet",
+//     "Rocky Road",
+//     "Strawberry",
+//     "Vanilla",
+//     "Vanilla Burnt Almond"
+
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1: Copy the Array! 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 We have an array called originalFlavors with 31 flavors (see above).  In these tasks, we will be reading and writing data to this array.  
 With all of these changes going on, we don't want to lose track of the actual, original 31 flavors.  So we need to copy the original array!
@@ -48,7 +80,6 @@ Use the copy function below to do the following:
 function copy(/*your code here*/){
     /*your code here*/
 }    
-
 
 
 
